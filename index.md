@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h1><strong>FC Bayern Munich</strong></h1>
@@ -35,7 +34,7 @@
 <p>FC Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the German Football Association (DFB), 11 members of the football division left the congregation and on the same evening founded Fusball-Club Bayern Munchen. Within a few months, Bayern achieved high-scoring victories against all local rivals, including a 15–0 win against FC Nordstern, and reached the semi-finals of the 1900-01 South German championship.</p>
 <p>The 1980s were a period of off-field turmoil for Bayern, with many changes in personnel and financial problems. On the field, Paul Breitner and Karl-Heinz Rummenigge, termed FC Breitnigge, led the team to Bundesliga titles in 1980 and 1981. Apart from a DFB-Pokal win in 1982, two relatively unsuccessful seasons followed, after which Breitner retired and former coach Udo Lattek returned. Bayern won the DFB-Pokal in 1984 and went on to win five Bundesliga championships in six seasons, including a double in 1986. European success, however, was elusive during the decade; Bayern managed to claim the runners-up spot in the European Cup in 1982 and 1987.</p>
 <p>The 2001-02 season began with a win in the Intercontinental Cup.Prior to the start of the 2005–06 season, Bayern moved from the Olympiastadion to the new Allianz Arena, which the club shares with 1860 Munich. On the field, their performance in 2006-07 was erratic. Trailing in the league and having lost to Alemannia Aachen in the cup yet again, coach Magath was sacked shortly after the winter break.</p>
-<p>In the 2010-11 season, Bayern were eliminated in the first round of the Champions League knockout phase by Inter Milan on the away goals rule and finished third in the Bundesliga.[48] Van Gaal was fired by Bayern in April 2011. In the 2011-12 season, Heynckes returned to coach Bayern for a second permanent spell but the team was to end the season without a trophy for the second season running. In the 2012-13 season, Bayern won the 2012 DFL-Supercup 2–1 against rivals Borussia Dortmund.Bayern finished the 2017-18 season as Bundesliga champions for the sixth consecutive season, finishing 21 points ahead of second-place Schalke 04. Heynckes retired from professional football, aged 73.</p>
+<p>In the 2010-11 season, Bayern were eliminated in the first round of the Champions League knockout phase by Inter Milan on the away goals rule and finished third in the Bundesliga. Van Gaal was fired by Bayern in April 2011. In the 2011-12 season, Heynckes returned to coach Bayern for a second permanent spell but the team was to end the season without a trophy for the second season running. In the 2012-13 season, Bayern won the 2012 DFL-Supercup 2–1 against rivals Borussia Dortmund.Bayern finished the 2017-18 season as Bundesliga champions for the sixth consecutive season, finishing 21 points ahead of second-place Schalke 04. Heynckes retired from professional football, aged 73.</p>
 <p>After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.</p>
 
 <p>
@@ -184,4 +183,3 @@
 <div>
 <img src="D:\images\3.jpg" width="300" />
 </div>
-</html>

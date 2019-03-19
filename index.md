@@ -170,7 +170,7 @@
 <div>
 <img src="D:\images\2.jpg" width="300" />
 </div>
-</div></div>
+
 
 <p>Chairman:</p>
 <a href="https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge">Karl-Heinz Rummenigge</a>

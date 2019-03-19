@@ -22,7 +22,6 @@
 <li class="level1">
 <span class="text"><a href="#3">Management Team</a></span>
 </li>
-</div>
 
 <div class="anchor-list">
 <a name="1" class="lemma-anchor para-title" ></a>
@@ -172,13 +171,9 @@
 <img src="D:\images\2.jpg" width="300" />
 </div>
 </div></div>
-<p>
-</p>
 
 <p>Chairman:</p>
 <a href="https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge">Karl-Heinz Rummenigge</a>
-<p>
-</p>
 
 <div>
 <img src="D:\images\3.jpg" width="300" />

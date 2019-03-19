@@ -23,6 +23,7 @@
 <span class="text"><a href="#3">Management Team</a></span>
 </li>
 
+
 <div class="anchor-list">
 <a name="1" class="lemma-anchor para-title" ></a>
 <a name="sub254556_1" class="lemma-anchor " ></a>
@@ -166,7 +167,6 @@
 
 <p>President FC Bayern Munich and chairman of the board:</p>
 <a href="https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F">Uli Hoenes</a>
-
 <div>
 <img src="D:\images\2.jpg" width="300" />
 </div>
@@ -174,7 +174,6 @@
 
 <p>Chairman:</p>
 <a href="https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge">Karl-Heinz Rummenigge</a>
-
 <div>
 <img src="D:\images\3.jpg" width="300" />
 </div>

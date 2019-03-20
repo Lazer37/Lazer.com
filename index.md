@@ -24,6 +24,8 @@
 </li>
 
 
+
+
 <div class="anchor-list">
 <a name="1" class="lemma-anchor para-title" ></a>
 <a name="sub254556_1" class="lemma-anchor " ></a>
@@ -38,7 +40,7 @@
 <p>After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.</p>
 
 <p>
-<img src="D:\images\1.jpg" width="400" />
+<img src="D:\images\1.jpg" width="250" />
 </p>
 
 
@@ -168,12 +170,12 @@
 <p>President FC Bayern Munich and chairman of the board:</p>
 <a href="https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F">Uli Hoenes</a>
 <div>
-<img src="D:\images\2.jpg" width="300" />
+<img src="D:\images\2.jpg" width="250" />
 </div>
 
 
 <p>Chairman:</p>
 <a href="https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge">Karl-Heinz Rummenigge</a>
 <div>
-<img src="D:\images\3.jpg" width="300" />
+<img src="D:\images\3.jpg" width="250" />
 </div>
